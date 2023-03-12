@@ -57,3 +57,11 @@ input {
   height: auto;
   padding: 0px 10px 10px 40px;
 }
+
+.check {
+  margin-right: 30px;
+}
+
+.completed {
+  color: aqua;
+}
